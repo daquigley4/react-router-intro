@@ -1,0 +1,79 @@
+[{
+    "JavaScript": [{
+        "ES6": [
+          "Template Literals",
+          "Destructuring Assignment",
+          "Promises",
+          "Default Parameters",
+          "rest & spread",
+          "class syntax"
+        ]
+      },
+      {
+        "Functions": [
+          "Pure Functions",
+          "Scope",
+          "Closure"
+        ]
+      },
+      {
+        "Array Methods": [
+          "Map",
+          "Reduce",
+          "Find",
+          "Filter"
+        ]
+      },
+      {
+        "Object Orientation": [
+          "Context (this)",
+          "Constructor Functions",
+          "Prototypal Inheritance"
+        ]
+      }
+    ]
+  },
+  {
+    "HTML/CSS": [
+      "elements",
+      "forms",
+      "specificity",
+      "box-model",
+      "animations"
+    ]
+  },
+  {
+    "Frameworks": [{
+        "React": [
+          "State",
+          "Props",
+          "Lifecycle Methods",
+          "Controlled Components",
+          "eco-system"
+        ]
+      },
+      {
+        "Angular": [
+          "nothing to see here"
+        ]
+      },
+      {
+        "Express": [
+          "routing",
+          "middleware",
+          "MVC",
+          "database config",
+          "server-side rendering"
+        ]
+      },
+      {
+        "Bootstrap": [
+          "Grid",
+          "Nav",
+          "Forms",
+          "Glyphicons"
+        ]
+      }
+    ]
+  }
+]
